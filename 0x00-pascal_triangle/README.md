@@ -11,7 +11,8 @@
 
 ### Example Test Environment
 
-```➜  0x00-pascal_triangle git:(master)$ cat 0-main.py
+```
+➜  0x00-pascal_triangle git:(master)$ cat 0-main.py
 #!/usr/bin/python3
 """
 0-main
