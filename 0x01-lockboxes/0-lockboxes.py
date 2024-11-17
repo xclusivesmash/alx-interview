@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Module: 0-lockboxes
 Description: checks if all boxes can be opened.
