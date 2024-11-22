@@ -7,4 +7,4 @@
 - Siphamandla Matshiane, ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSiphamandl76892)
 
 ## LICENSE
-- [ALX Software Engineering Plus](https://tech.alxafrica.com/software-engineering-plus-programme-johannesburg)
+- [MIT](LICENSE)
